@@ -5,3 +5,4 @@ z = int("2")
 
 print(x , y , z) 
 print(f'{x}')
+print(f'{y}')
