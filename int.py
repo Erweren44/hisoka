@@ -3,4 +3,5 @@ y = int(2.8)
 z = int("2")
 
 
-print(x , y , z)
+print(x , y , z) 
+print(f'{x}')
